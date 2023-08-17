@@ -25,6 +25,7 @@ input[type="submit"] {
     box-shadow: 0 3px 3px black;
     opacity: 0.9;
     transition: all 0.15s;
+    cursor: pointer;
 }
 button:hover,
 input[type="submit"]:hover {
@@ -47,6 +48,7 @@ h1 {
     text-align: center;
     margin: 30px;
     letter-spacing: 4px;
+    cursor: default;
 }
 
 pre {
