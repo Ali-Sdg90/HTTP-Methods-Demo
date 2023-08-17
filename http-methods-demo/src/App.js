@@ -9,7 +9,7 @@ import AxiosPut from "./components/AxiosPut";
 import Footer from "./components/Footer";
 
 const App = () => {
-    const [hedder, setHedder] = useState("- HTTP Methods Demo -");
+    const [hedder, setHedder] = useState("HTTP Methods Demo");
 
     useEffect(() => {
         document.title = hedder;
