@@ -1,8 +1,5 @@
 <h1>HTTP Methods Demo</h1>
 <p>
-    <img src="assets/Github-img.png" alt="HTTP Methods Demo" />
-</p>
-<p>
     Welcome to the <strong>HTTP Methods Demo</strong> repository, a
     comprehensive showcase of HTTP communication methods built using React. This
     project not only features a sleek and user-friendly dark theme but also
@@ -10,6 +7,9 @@
     and responses using the Axios library. Whether you're new to HTTP or a
     seasoned developer looking to brush up your skills, this repository is your
     go-to resource.
+</p>
+<p>
+    <img src="assets/Github-img.png" alt="HTTP Methods Demo" />
 </p>
 <h2>Features</h2>
 <ul>
